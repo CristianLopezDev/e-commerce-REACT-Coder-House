@@ -13,8 +13,8 @@ export const NavBar = () => {
                 <Navbar.Brand href="#home">Mi Negocio</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="#home">Profile</Nav.Link>
-                        <Nav.Link href="#features">Crear Producto</Nav.Link>
-                        <Nav.Link href="#pricing">Editar Producto</Nav.Link>
+                        <Nav.Link href="#features">Create Product</Nav.Link>
+                        <Nav.Link href="#pricing">Edit Product</Nav.Link>
                     </Nav>
                     <CartWidget />
             </Container>
